@@ -25,4 +25,6 @@ As I approach graduation, I am actively seeking job opportunities in the data sc
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="vscode/vscode-original.svg"/>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="jupyter/jupyter-original.svg"/>
 <!-- <img src="https://komarev.com/ghpvc/?username=tlsouth&style=flat-square&color=blue" alt=""/> -->
