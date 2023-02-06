@@ -6,7 +6,7 @@
     </p>
 </h1>
 
-    <h2>Data Scientist</h2>
+<h2>Data Scientist</h2>
 
 <body>
 
