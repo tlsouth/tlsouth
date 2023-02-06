@@ -2,9 +2,7 @@
   <p style = 'display:inline-block;'>Tyler Southworth   
     <a href = 'https://www.linkedin.com/in/southworth-tyler/'>
     <img alt = 'LinkedIn' width = '30px' style = 'padding-right:10px;' src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>
-  </a> 
-  <h2> Data Scientist </h2>
-  </p>
+  </a></p>
 </h1>
 
 <!-- <h1>
@@ -15,7 +13,7 @@
     </p>
 </h1> -->
 
-<h3> About Me </h3>
+<h2> About Me </h2>
 
 <body>
      I’m a data scientist and bioinformatician set to graduate with my MS in Bioinformatics in May 2023. I leverage Python and Java to solve complex data science problems by tool building, scripting, and data wrangling. I’ve engineered, and currently manage, my lab’s database that stores data critical to our research using MongoDB. I have a strong understanding of deep learning tools including Convolutional Neural Networks and Recurrent Neural Networks and have explored problems that interest me using these methods. I enjoy learning new languages and find it easy to switch between them based on the needs of each project. When I’m not coding, I enjoy meeting new people, learning more about space, and pouring the perfect beer!
