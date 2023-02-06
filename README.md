@@ -1,3 +1,6 @@
+p {
+   font-size: 14px
+   }
 <h1>
   <p style = 'display:inline-block'>Tyler Southworth   
     <a href = 'https://www.linkedin.com/in/southworth-tyler/'>
