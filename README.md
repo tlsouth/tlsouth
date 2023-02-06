@@ -6,8 +6,9 @@
     </p>
 </h1>
 
+<h2>Data Scientist</h2>
+
 <body>
-  <h2>Data Scientist</h2>
 
   I'm a bioinformatics graduate student set to graduate in May 2023. During my graduate school education, I have developed strong programming abilities in both Python and Java, and gained a thorough understanding of database engineering and management including both SQL and NoSQL systems. I have also put my machine learning knowledge into practice by using convolutional and recurrent neural networks to solve problems that interest me.
 
