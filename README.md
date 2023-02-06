@@ -1,7 +1,7 @@
 <header>
   <p style="display:inline-block">Tyler Southworth</p>
   <a href="https://www.linkedin.com/in/southworth-tyler/">
-    img alt = 'LinkedIn' width = '50px' style = 'padding-right:10px;' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>
+    <img alt = 'LinkedIn' width = '50px' style = 'padding-right:10px;' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>
   </a>
 </header>
 
