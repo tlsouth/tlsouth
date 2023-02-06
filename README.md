@@ -1,10 +1,9 @@
 <h1>
-  <p style='display:inline-block'>Tyler Southworth</p>
+  <p style='display:inline-block'>Tyler Southworth   <a href='https://www.linkedin.com/in/southworth-tyler/'>
+    <img alt='LinkedIn' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>
+  </a></p>
   <br>
   <p style='display:inline-block'>Data Scientist</p>
-  <a href='https://www.linkedin.com/in/southworth-tyler/'>
-    <img alt='LinkedIn' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>
-  </a>
 </h1>
 
 <!-- <h1>
