@@ -4,7 +4,7 @@
     <img alt = 'LinkedIn' width = '30px' style = 'padding-right:10px;' src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>
   </a> </p>
   <br>
-  <p style='display: inline-block; font-size: 10px;'>Data Scientist</p>
+  <p style = 'display: inline-block; font-size: 10;'>Data Scientist</p>
 </h1>
 
 <!-- <h1>
