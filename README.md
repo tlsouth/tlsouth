@@ -3,7 +3,7 @@
     <a href = 'https://www.linkedin.com/in/southworth-tyler/'>
     <img alt = 'LinkedIn' width = '30px' style = 'padding-right:10px;' src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>
   </a> 
-      <h2> Data Scientist </h2>
+  <h2> Data Scientist </h2>
   </p>
 </h1>
 
