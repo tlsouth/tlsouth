@@ -1,6 +1,6 @@
 <h1>
   <p style= 'display:inline-block'>Tyler Southworth
-  <a href="https://www.linkedin.com/in/southworth-tyler/">
+  <a href = 'https://www.linkedin.com/in/southworth-tyler/'>
     <img alt = 'LinkedIn' width = '30px' style = 'padding-right:10px;' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>
   </a>
     </p>
@@ -17,8 +17,8 @@
 
 ## My Stack
 
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = 'Python'/>
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = 'Java'/>
+<img align = 'left' alt = 'Python' width = '50px' style = 'padding-right:10px;' src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' title = 'Python'/>
+<img align = 'left' alt = 'Java' width = '50px' style = 'padding-right:10px;' src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = 'Java'/>
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" title = 'TensorFlow'/>
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title = 'MongoDB'/>
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title = 'Pandas'/>
