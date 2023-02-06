@@ -28,7 +28,7 @@ As I approach graduation, I am actively seeking job opportunities in the data sc
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title = 'Bash'/>
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" title = 'Atom'/>
 
-#
+
 
 
 <!-- <img src="https://komarev.com/ghpvc/?username=tlsouth&style=flat-square&color=blue" alt=""/> -->
