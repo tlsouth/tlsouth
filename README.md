@@ -15,6 +15,6 @@ As I approach graduation, I am actively seeking job opportunities in the data sc
 
 ## Skills and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://github.com/devicons/devicon/tree/v2.15.1/icons/java)"/>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=tlsouth&style=flat-square&color=blue" alt=""/> -->
