@@ -1,9 +1,9 @@
 <h1>
-  <p style = 'display:inline-block; font-size: larger;'>Tyler Southworth   
+  <p style = 'display:inline-block; font-size: 20px;'>Tyler Southworth   
     <a href = 'https://www.linkedin.com/in/southworth-tyler/'>
     <img alt = 'LinkedIn' width = '30px' style = 'padding-right:10px;' src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>
   </a> </p>
-  <p style = 'display: inline-block; font-size: smaller;'>Data Scientist</p>
+  <p style = 'display: inline-block; font-size: 16px;'>Data Scientist</p>
 </h1>
 
 <!-- <h1>
