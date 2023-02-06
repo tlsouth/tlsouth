@@ -4,10 +4,9 @@
     <img alt = 'LinkedIn' width = '30px' style = 'padding-right:10px;' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>
   </a>
     </p>
-    <h2>Data Scientist</h2>
 </h1>
 
-
+    <h2>Data Scientist</h2>
 
 <body>
 
