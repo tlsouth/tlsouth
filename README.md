@@ -9,10 +9,8 @@
 <h2> About Me </h2>
 
 <body>
-	I’m a data scientist and bioinformatician set to graduate with my MS in Bioinformatics in May 2023. During my time in grad school, I have learned how to leverage Python and Java to solve complex data science problems by tool building, scripting, and data wrangling. I’ve engineered databases to address real-world research problems using both SQL and NoSQL tools, which has been my primary role in my research lab. <br>
-  In the Fall of 2022 I completed a machine learning course offered by my program and fell in love with the methodology, theory, and application of deep learning tools including Convolutional Neural Networks and Recurrent Neural Networks. I applied these tools to problems that interest me, which I have included in the pinned repositories below. In addition to machine learning, I also completed an advanced programming course which focused on Java. The reliability of Java and stark differences with Python in syntax, typing, and abstraction made me appreciate my ability to quickly adapt to new languages using my strong understanding of core programming concepts.<br>
-  As I approach graduation, I am actively seeking job opportunities in the domains of finance, genomics, and energy. I will bring significant value to any team and continuously develop my own skills while sharing my knowledge with others. I believe that my academic experience and strong understanding of machine learning will allow me to drive impactful solutions for my organization. 
-
+I’m a data scientist and bioinformatician set to graduate with my MS in Bioinformatics in May 2023. I leverage Python and Java to solve complex data science problems by tool building, scripting, and data wrangling. I’ve engineered, and currently manage, my lab’s database that stores data critical to our research using MongoDB. I have a strong understanding of deep learning tools including Convolutional Neural Networks and Recurrent Neural Networks and have explored problems that interest me using these methods. I enjoy learning new languages and find it easy to switch between them based on the needs of each project. When I’m not coding, I enjoy meeting new people, learning more about space, and pouring the perfect beer!
+As I approach graduation, I am actively seeking opportunities in the domains of finance, genomics, and energy. I am eager to join a team where I can learn, share my knowledge, and drive impactful solutions
 </body>  
 
 ## My Stack
