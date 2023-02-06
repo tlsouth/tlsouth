@@ -1,9 +1,9 @@
-<header>
+<h1>
   <p style="display:inline-block">Tyler Southworth</p>
   <a href="https://www.linkedin.com/in/southworth-tyler/">
     <img alt = 'LinkedIn' width = '50px' style = 'padding-right:10px;' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>
   </a>
-</header>
+</h1>
 
 <body>
   <h2>Data Scientist</h2>
@@ -13,8 +13,6 @@
   As I approach graduation, I am actively seeking job opportunities in the data science field, specifically within the domains of finance, genomics, and energy. I am confident that I can bring substantial value to a company while also continuously developing my own skills and sharing my knowledge with others. My expertise will allow me to tackle complex data science problems and drive impactful solutions for my organization.
 
 </body>  
-  
-<hr></hr>
 
 ## My Stack
 
