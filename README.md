@@ -1,7 +1,9 @@
-# Tyler Southworth <div id="badges">
+<header>
+  <p style="float:left">Tyler Southworth</p>
   <a href="https://www.linkedin.com/in/southworth-tyler/">
-  <img align = 'right' alt = 'LinkedIn' width = '50px' style = 'padding-right:10px;' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'/>
-</div>
+    <img align = 'right' alt = 'LinkedIn' width = '50px' style = 'padding-right:10px;' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>
+  </a>
+</header>
 
 **`Data Scientist`**
 
