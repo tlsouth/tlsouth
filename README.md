@@ -1,5 +1,5 @@
 <h1>
-  <p style= 'display:inline-block'>Tyler Southworth
+  <p style= 'display:inline-block'> Tyler Southworth
   <a href = 'https://www.linkedin.com/in/southworth-tyler/'>
     <img alt = 'LinkedIn' width = '30px' style = 'padding-right:10px;' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'>
   </a>
@@ -29,8 +29,3 @@
 <img align = 'left' alt = 'R' width = '50px' style = 'padding-right:10px;' src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg' title = 'R'/>
 <img align = 'left' alt = 'Bash' width = '50px' style = 'padding-right:10px;' src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg' title = 'Bash'/>
 <img align = 'left' alt = 'Atom' width = '50px' style = 'padding-right:10px;' src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg' title = 'Atom'/>
-
-
-
-
-<!-- <img src="https://komarev.com/ghpvc/?username=tlsouth&style=flat-square&color=blue" alt=""/> -->
