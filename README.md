@@ -8,7 +8,7 @@ As I approach graduation, I am actively seeking job opportunities in the data sc
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/southworth-tyler/">
-  <img align = 'left' alt = 'LinkedIn' width = '75px' style = 'padding-right:10px;' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'/>
+  <img align = 'left' alt = 'LinkedIn' width = '50px' style = 'padding-right:10px;' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'/>
 </div>
 
 <hr></hr>
