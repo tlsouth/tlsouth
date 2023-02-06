@@ -6,13 +6,9 @@ I'm a bioinformatics graduate student set to graduate in May 2023. During my gra
 
 As I approach graduation, I am actively seeking job opportunities in the data science field, specifically within the domains of finance, genomics, and energy. I am confident that I can bring substantial value to a company while also continuously developing my own skills and sharing my knowledge with others. My expertise will allow me to tackle complex data science problems and drive impactful solutions for my organization.
 
-
-<i class="devicon-linkedin-plain colored"></i>
-          
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/southworth-tyler/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />" alt="LinkedIn Badge"/>
 </div>
 
 <hr></hr>
